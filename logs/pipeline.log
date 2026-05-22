@@ -1,0 +1,8 @@
+2026-05-19 12:28:07,486 - INFO - --- DEBUT DE L'INGESTION DANS LA COUCHE STAGING ---
+2026-05-19 12:28:07,486 - ERROR - Fichier source introuvable au chemin : ./data/raw/darkom_annonces.csv
+2026-05-19 12:28:42,340 - INFO - --- DEBUT DE L'INGESTION DANS LA COUCHE STAGING ---
+2026-05-19 12:28:42,340 - ERROR - Fichier source introuvable au chemin : ./data/darkom_annonces.csv
+2026-05-19 12:30:37,768 - INFO - --- DEBUT DE L'INGESTION DANS LA COUCHE STAGING ---
+2026-05-19 12:30:37,769 - ERROR - Fichier source introuvable au chemin : ./data/darkom_annonces.csv
+2026-05-19 12:33:05,205 - INFO - --- DEBUT DE L'INGESTION DANS LA COUCHE STAGING ---
+2026-05-19 12:33:05,205 - ERROR - Fichier source introuvable au chemin : ./data/darkom_annonces.csv
